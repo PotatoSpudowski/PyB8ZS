@@ -10,13 +10,15 @@ This technique is similar to Bipolar AMI except when eight consecutive zero-leve
 
 - B(Bipolar), also non-zero voltage level which is in accordance with the AMI rule (i.e.,opposite polarity from the previous non-zero voltage).
 
-##How to Run
+## How to Run
 ```bash
 $  python main.py
 Enter the 10 bit data stream: 10000000001
 Enter the last symbol (1 for +ve pulse and -1 for -ve pulse): 1
   ```
 
-##Output Plot
+## Output Plot
+
 This should be the Output
+
 ![Plot](https://github.com/PotatoSpudowski/PyB8ZS/blob/master/Images/sample_plot.png)
